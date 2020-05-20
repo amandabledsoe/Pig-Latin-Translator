@@ -1,0 +1,6 @@
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 3 Powers Table Refactor\Pig Latin\Pig Latin\bin\Debug\Pig Latin.exe.config
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 3 Powers Table Refactor\Pig Latin\Pig Latin\bin\Debug\Pig Latin.exe
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 3 Powers Table Refactor\Pig Latin\Pig Latin\bin\Debug\Pig Latin.pdb
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 3 Powers Table Refactor\Pig Latin\Pig Latin\obj\Debug\Pig Latin.csprojResolveAssemblyReference.cache
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 3 Powers Table Refactor\Pig Latin\Pig Latin\obj\Debug\Pig Latin.exe
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 3 Powers Table Refactor\Pig Latin\Pig Latin\obj\Debug\Pig Latin.pdb
